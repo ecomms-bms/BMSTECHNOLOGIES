@@ -1,10 +1,4 @@
 # Ignore backups and logs
-wp-content/ai1wm-backups/
-wp-content/themes/peakshops/assets/css/php_errorlog
-wp-content/upgrade/
-wp-content/cache/
-wp-content/w3tc-cache/
-wp-content/uploads/
-
+php_errorlog
 **/php_errorlog
 *.log
